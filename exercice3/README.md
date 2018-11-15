@@ -1,8 +1,14 @@
 Exercice 3 :
 
-    - Ajouter à notre objet "personne" une propriété appelée "nomDeCode" ayant pour valeur "007"
-    - Afficher dans un alert le message suivant : mon nom est <propriété nom de notre objet>, <propriété prenom de notre objet>
-     <propriété nom de notre objet>, agent <propriété nomDeCode de notre objet>
+    - Ajouter à notre objet "personne" une 
+    propriété appelée "nomDeCode" ayant pour
+     valeur "007"
+    - Afficher dans un alert le message
+     suivant : mon nom est <propriété nom 
+     de notre objet>, <propriété prenom de
+      notre objet>
+     <propriété nom de notre objet>, agent
+      <propriété nomDeCode de notre objet>
 
 
 Théorie :
